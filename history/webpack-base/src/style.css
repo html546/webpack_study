@@ -1,0 +1,4 @@
+html body:after {
+  content: '我爱你';
+  color: red;
+}
